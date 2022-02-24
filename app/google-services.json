@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343815441315",
+    "project_id": "zfast-5acee",
+    "storage_bucket": "zfast-5acee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343815441315:android:2d0c9d47380f670bfba816",
+        "android_client_info": {
+          "package_name": "com.example.landminehti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343815441315-h2mpj1o92aki8ouho0er9robpovcgg8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQxlHpOL34BsrdvxsePItXeh9s7tYaB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343815441315-h2mpj1o92aki8ouho0er9robpovcgg8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

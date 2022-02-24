@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Z Fast</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_null">null</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="BTxt_login">Login</string>
+    <string name="txt_forgot_password">Forgot password?</string>
+    <string name="txt_don_t_have_an_account">Don\'t have an account?</string>
+    <string name="txt_sign_up">Sign Up</string>
+    <string name="txt_select_image">Select an image</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_phone_number">Phone number</string>
+    <string name="BTxt_register">Register</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="BTxt_location">Location</string>
+    <string name="BTxt_result">Result</string>
+    <string name="tit_logout">Logout</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="hint_enter_your_email">Enter your email</string>
+    <string name="txt_username">username</string>
+    <string name="txt_display_location">Display location!</string>
+    <string name="txt_longitude">Fast</string>
+    <string name="txt_latitude">Charge</string>
+    <string name="txt_display_result">Display result!</string>
+    <string name="txt_yes_no">Signal / Medical</string>
+    <string name="txt_reset_password">Reset password!</string>
+</resources>
